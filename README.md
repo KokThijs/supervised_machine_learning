@@ -17,4 +17,5 @@ In this repo i keep my final assignment for the datascience 3 - supervised machi
 
 ### In the case of an error caused by missing packages OR wrong versions:
 run the following command in the terminal / shell while in this directory.
+    
     -pip install -r requirements.txt
